@@ -33,4 +33,5 @@ vim.opt.termguicolors = true
 vim.opt.showmode = false
 
 -- No automatic comment insertion
+vim.cmd("syntax on")
 vim.cmd([[autocmd FileType * set formatoptions-=ro]])

@@ -27,7 +27,7 @@ return {
             border = 'rounded',
         },
         lightbulb = {
-            enable = false, -- Disabled as per your previous preference
+            enable = true, -- Disabled as per your previous preference
         },
     })
 
